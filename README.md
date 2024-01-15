@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @handsomeJianXiong.
+- 👋 Hi, I’m JianXiong.
 - 👀 I’m interested in reverse engineering, AI application security, computer vision and etc.
 - 🌱 I’m currently a senior undergraduate and my major is computer science.
 - 💞️ I’m looking to collaborate on academic interaction.
