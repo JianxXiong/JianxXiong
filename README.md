@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JianXiong.
-- 👀 I’m interested in reverse engineering, AI application security, computer vision and etc.
+- 👀 I’m interested in reverse engineering, AI application security, machine learning, computer vision(used to) and etc.
 - 🌱 I’m currently a senior undergraduate and my major is computer science.
 - 💞️ I’m looking to collaborate on academic interaction.
 - 📫 How to reach me: jianxiong0913@163.com
